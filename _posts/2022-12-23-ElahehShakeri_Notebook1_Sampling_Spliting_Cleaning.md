@@ -141,7 +141,7 @@ tf.keras.utils.load_img(
 
 
     
-![png](output_12_1.png)
+![png](/images/output_12_1.png)
     
 
 
@@ -166,7 +166,7 @@ tf.keras.utils.load_img(
 
 
     
-![png](output_13_1.png)
+![png](/images/output_13_1.png)
     
 
 
